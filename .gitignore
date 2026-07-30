@@ -1,0 +1,4 @@
+results/**/*.jls
+results/*_profiles.csv
+results/**/*_profiles.csv
+rodent_full_run.log
